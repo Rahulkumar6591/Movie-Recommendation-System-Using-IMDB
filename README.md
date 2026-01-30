@@ -116,5 +116,3 @@ Contributions are welcome! If you'd like to improve this project, please:
 This project is licensed under the **MIT License** – feel free to use and modify it.  
 
 ---
-
-Would you like me to add any specific sections, such as **screenshots, demo links, or benchmarks**? 🚀
